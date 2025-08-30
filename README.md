@@ -22,19 +22,6 @@ Video explanation: [Watch here](https://drive.google.com/file/d/1UooX2iDVryXO7kB
 
 ---
 
-## Repository Structure
-
-ReinFLY/
-│── flappy_env.py # Custom Flappy Bird environment using Pygame
-│── dqn_agent.py # Deep Q-Network implementation
-│── train.py # Training loop for the RL agent
-│── test.py # Run the trained agent
-│── models/ # Saved DQN models
-│── assets/ # Game sprites and assets
-│── requirements.txt # Dependencies
-│── README.md # Project documentation
-
-
 ---
 
 ## Installation, Training, Testing, and Requirements
@@ -43,15 +30,18 @@ ReinFLY/
 # Clone this repository
 git clone https://github.com/<your-username>/ReinFLY.git
 cd ReinFLY
-
+```
+```bash
 # Install dependencies
 pip install -r requirements.txt
-
+```
+```bash
 # Train the agent
 python train.py
-
+```
+```bash
 # Test a trained model
 python test.py
-
-## Acknowledgement
+```
+##Acknowledgement
 This project was developed under the Summer of Code 2024 program by the Web and Coding Club, IIT Bombay. Suggestions for further improvements are welcome.
