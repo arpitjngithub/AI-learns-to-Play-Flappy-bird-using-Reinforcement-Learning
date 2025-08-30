@@ -1,11 +1,26 @@
-In this repository I implemented Deep Q-Netowrk (DQN) which is a value-based deep reinforcement learning algorithm in the flappy bird environment which is made using pygame.
+# ReinFLY – Flappy Bird with Deep Reinforcement Learning
 
-I trained the model for around 40 hours and on running after it bird is able to fly itself and scoring and avg of 20-25 points.
-On training further and by tuning hyperparameters we can increase its performance further.
+This project implements **Deep Q-Network (DQN)**, a value-based deep reinforcement learning algorithm, to train an AI agent that autonomously plays a **custom Flappy Bird game** built in **Pygame**.
 
-I have done this project under the Summer of Code 2024  organized by Web and Coding Club IIT Bombay in my 2nd year of Aerospace Engineering at IIT Bombay.
+The work was carried out as part of the **Summer of Code 2024** organized by the **Web and Coding Club, IIT Bombay**, during my 2nd year of Aerospace Engineering at IIT Bombay.
 
-Any suggestions for further improvement would be appreciated.
+---
 
+## Project Highlights
 
-Link for Video Explanation - https://drive.google.com/file/d/1UooX2iDVryXO7kBxtMGlHnjs36iM23XB/view?usp=sharing
+- Developed a custom Flappy Bird environment in Pygame for reinforcement learning experiments.  
+- Implemented a Deep Q-Network (DQN) to enable autonomous gameplay.  
+- Trained the model for around 40 hours – the agent consistently achieves an average score of 20–25 points.  
+- Explored Policy Gradient methods, Temporal Difference learning, and other RL techniques for optimization.  
+- Performance can be further improved by tuning hyperparameters and longer training runs.  
+
+---
+
+## Demo
+
+Video explanation: [Watch here](https://drive.google.com/file/d/1UooX2iDVryXO7kBxtMGlHnjs36iM23XB/view?usp=sharing)
+
+---
+
+## Repository Structure
+
