@@ -45,7 +45,6 @@ python test.py
 ```
 ```bash
 #Requirements
-
 pygame
 torch
 numpy
