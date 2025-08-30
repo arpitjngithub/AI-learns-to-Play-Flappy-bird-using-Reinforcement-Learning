@@ -43,5 +43,12 @@ python train.py
 # Test a trained model
 python test.py
 ```
-##Acknowledgement
+Requirements
+
+pygame
+torch
+numpy
+matplotlib
+
+## Acknowledgement
 This project was developed under the Summer of Code 2024 program by the Web and Coding Club, IIT Bombay. Suggestions for further improvements are welcome.
